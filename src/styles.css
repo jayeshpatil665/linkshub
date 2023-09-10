@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+html{
+    background-color: antiquewhite;
+    border: 3px solid black;
+    height: 99%;
+    width: 100%;
+    text-align: center;
+}
+

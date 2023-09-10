@@ -1,0 +1,17 @@
+
+.aboutSection{
+   background-color: blanchedalmond;
+   /*background-color:lightsteelblue;
+   background-color:lightsalmon;*/
+   border: 3px solid black;
+   border-radius: 15px;
+   padding: 10px;
+   width:max-content;
+}
+
+.aboutSection img{
+   border-radius: 50%;
+   width: 120xp;
+   height: 120px;
+   outline: 2px solid grey;
+}
